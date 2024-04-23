@@ -1,0 +1,35 @@
+
+prieksmeti = [matemātika, ]
+
+
+#######
+Atzīmju kārtotājs
+#######
+Vai vēlies ievadīt datus no jauna, vai ielasīt no faila? (jauna/ielasit): jauna
+Ievadi vārdu: javiers
+~~
+for each in prieksmeti:
+	input = ("Ieraksti 'priekšmets' atzīmes, atdalot tās ar komatiem (1, 2, 8, 2): "	
+~~
+
+1 : Kā iegūt vidējo, labojot 1 atzīmi, uz cik jāizlabo, lai to panāķtu.
+2 : Kā noteiktā atzīme vidējo priekšmetā un kopumā.
+
+4: Prognozēt vidējās atzīmes pēc nākotnes PD
+3: Ievadīt jaunus datus, papildinot iepriekšējos. f'{vards}_atzimes.html'
+
+4 : Ievadīt jaunus datus, pārrakstot vecos.
+
+Lūdzu izvēlaties kādu no opcijām, ievadot tai atbilstošo skaitli [1, 2, 3]: 2
+Kurā priekšmetā vēlies apskatīties noteikto atzīmi?: matemātika
+Matemātikas atzīmes: [1, 2, 3, 9], Izvēlies kuru atzīmi pēc kārtas vēlies mainīt: 2
+ja labo 2<
+Skala:
+atzīme: 3   4   5   10
+vidējā: 5,2 5,8 5,9 8
+
+```
+Lūdzu izvēlaties kādu no opcijām, ievadot tai atbilstošo skaitli [1, 2, 3]: 3
+Kurā priekšmetā vēlies apskatīties noteikto atzīmi?: matemātika
+skala
+nākotnes atzīme: 3: 5.2 | 4: 5.8 | 5: 5.9 
