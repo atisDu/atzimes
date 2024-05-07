@@ -1,1 +1,3 @@
+07.05 saite: https://prod.liveshare.vsengsaas.visualstudio.com/join?44552AF004E4098E3ABC9F1F01BABDAC0347
+
 https://prod.liveshare.vsengsaas.visualstudio.com/join?D1FE6205B9F4CB6238011E17E69079128250
